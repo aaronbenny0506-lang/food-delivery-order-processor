@@ -106,9 +106,9 @@ REJECTED ORDERS
 ============================================================
 
 Order #6 — Farah
-    [rejected] Order has no items — nothing to bill.
+    [rejected] Order has no items - nothing to bill.
 ------------------------------------------------------------
 Order #11 — Wei
     [rejected] 'Sushi Platter' is not on the menu
-    [rejected] No valid menu items in this order — order rejected.
+    [rejected] No valid menu items in this order - order rejected.
 ------------------------------------------------------------
