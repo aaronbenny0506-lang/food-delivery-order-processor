@@ -3,9 +3,9 @@ Food Delivery Order Processor
 --------------------------------
 Processes a batch of food orders against a menu, applies value-based
 discounts and delivery charges, flags invalid orders without crashing,
-finds the highest-value order, and writes a sales summary to a file.
+finds the highest-value order and writes a sales summary to a file.
 
-Standard library only — no external packages or frameworks.
+Standard library only, no external packages or frameworks.
 
 Run it with:
     python3 food_delivery.py
@@ -20,7 +20,7 @@ from datetime import datetime
 # --------------------------------------------------------------------------
 #
 # `MENU` is a dict of {item_name: price}. Using a dict (rather than a list
-# of item dicts) makes item lookups O(1), which matters once we're
+# of item dicts) makes item lookups O(1) which matters once we're
 # validating every line of every order against it.
 #
 # Each order is a dict:
