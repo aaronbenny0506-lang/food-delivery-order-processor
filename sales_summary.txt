@@ -1,0 +1,114 @@
+FOOD DELIVERY — DAILY SALES SUMMARY
+Generated: 2026-09-19 13:54:14
+============================================================
+
+Total orders received: 12
+Valid orders billed:   10
+Rejected orders:       2
+Total revenue:         ₹5769.00
+
+HIGHEST-VALUE ORDER
+------------------------------------------------------------
+Order ID:        5
+Customer:        Sana
+Subtotal:        ₹1440.00
+Discount:        15% (-₹216.00)
+Delivery charge: ₹0.00
+Final total:     ₹1224.00
+
+============================================================
+ALL BILLED ORDERS
+============================================================
+
+Order #1 — Aditi
+    2 x Margherita Pizza @ ₹250.00 = ₹500.00
+    1 x Cold Coffee @ ₹90.00 = ₹90.00
+    Subtotal:        ₹590.00
+    Discount (10%):   -₹59.00
+    Delivery charge: ₹0.00
+    FINAL TOTAL:     ₹531.00
+------------------------------------------------------------
+Order #2 — Rohan
+    1 x Chicken Biryani @ ₹220.00 = ₹220.00
+    2 x Garlic Bread @ ₹100.00 = ₹200.00
+    Subtotal:        ₹420.00
+    Discount (5%):   -₹21.00
+    Delivery charge: ₹40.00
+    FINAL TOTAL:     ₹439.00
+------------------------------------------------------------
+Order #3 — Meera
+    3 x Veggie Burger @ ₹150.00 = ₹450.00
+    Subtotal:        ₹450.00
+    Discount (5%):   -₹22.50
+    Delivery charge: ₹40.00
+    FINAL TOTAL:     ₹467.50
+------------------------------------------------------------
+Order #4 — Karthik
+    1 x Caesar Salad @ ₹180.00 = ₹180.00
+    1 x Cold Coffee @ ₹90.00 = ₹90.00
+    1 x Garlic Bread @ ₹100.00 = ₹100.00
+    Subtotal:        ₹370.00
+    Discount (5%):   -₹18.50
+    Delivery charge: ₹40.00
+    FINAL TOTAL:     ₹391.50
+------------------------------------------------------------
+Order #5 — Sana
+    4 x Margherita Pizza @ ₹250.00 = ₹1000.00
+    2 x Chicken Biryani @ ₹220.00 = ₹440.00
+    Subtotal:        ₹1440.00
+    Discount (15%):   -₹216.00
+    Delivery charge: ₹0.00
+    FINAL TOTAL:     ₹1224.00
+------------------------------------------------------------
+Order #7 — Devika
+    2 x Veggie Burger @ ₹150.00 = ₹300.00
+    Subtotal:        ₹300.00
+    Discount (5%):   -₹15.00
+    Delivery charge: ₹40.00
+    FINAL TOTAL:     ₹325.00
+    [note] 'Mango Lassi' is not on the menu
+------------------------------------------------------------
+Order #8 — Ibrahim
+    1 x Chicken Biryani @ ₹220.00 = ₹220.00
+    Subtotal:        ₹220.00
+    Discount (0%):   -₹0.00
+    Delivery charge: ₹40.00
+    FINAL TOTAL:     ₹260.00
+------------------------------------------------------------
+Order #9 — Neha
+    2 x Caesar Salad @ ₹180.00 = ₹360.00
+    2 x Cold Coffee @ ₹90.00 = ₹180.00
+    Subtotal:        ₹540.00
+    Discount (10%):   -₹54.00
+    Delivery charge: ₹0.00
+    FINAL TOTAL:     ₹486.00
+------------------------------------------------------------
+Order #10 — Tarun
+    5 x Garlic Bread @ ₹100.00 = ₹500.00
+    3 x Cold Coffee @ ₹90.00 = ₹270.00
+    Subtotal:        ₹770.00
+    Discount (10%):   -₹77.00
+    Delivery charge: ₹0.00
+    FINAL TOTAL:     ₹693.00
+------------------------------------------------------------
+Order #12 — Priya
+    2 x Chicken Biryani @ ₹220.00 = ₹440.00
+    2 x Margherita Pizza @ ₹250.00 = ₹500.00
+    1 x Caesar Salad @ ₹180.00 = ₹180.00
+    Subtotal:        ₹1120.00
+    Discount (15%):   -₹168.00
+    Delivery charge: ₹0.00
+    FINAL TOTAL:     ₹952.00
+------------------------------------------------------------
+
+============================================================
+REJECTED ORDERS
+============================================================
+
+Order #6 — Farah
+    [rejected] Order has no items — nothing to bill.
+------------------------------------------------------------
+Order #11 — Wei
+    [rejected] 'Sushi Platter' is not on the menu
+    [rejected] No valid menu items in this order — order rejected.
+------------------------------------------------------------
